@@ -1,0 +1,45 @@
+body{
+    background-size: cover;
+}
+.heading{
+    width:100%;
+    font-size: 30px;
+    margin:0px;
+}
+.bnt{
+    font-size: 25px;
+    color: wheat;
+}
+.div_speed{
+    float:left;
+    
+
+}
+#speed{
+    font-size: 30px;
+    margin:15px;
+}
+.tbn{
+    width: 250px;
+    border-radius: 10000px;
+}
+.div_volume{
+    float:right;
+    
+
+}
+#volume{
+    font-size: 30px;
+    margin:15px;
+}
+.play{
+    font-size: 25px;
+    width:200px;
+}
+canvas{
+    border-width: 10px;
+    border-style: solid;
+    border-radius: 50px;
+    border-color: rgb(224, 58, 58);
+    margin-top:50px;
+}
